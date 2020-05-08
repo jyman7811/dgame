@@ -1,7 +1,7 @@
 import discord
 import asyncio
 
-class dgame:
+class Dgame:
     def __init__(self, ca, meg, sleeps):
         self.ca = ca
         self.meg = meg
